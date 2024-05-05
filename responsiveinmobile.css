@@ -1,0 +1,396 @@
+@media screen and (max-width: 430px) {
+    .nav ,.flag{
+       display:none;
+
+    }
+}
+
+@media screen and (max-width:440px) {
+   .primary-container .header
+    {
+     height:60px;
+     background-color: white;
+    
+    }
+}
+
+
+@media screen and (max-width:430px) {
+    .primary-container #logo
+     {
+      height:60px;
+      background-color: white; 
+    padding:10px 16px;
+    padding-left: 5px;
+
+     }
+ }
+
+
+
+
+@media screen and (max-width:430px) {
+    .primary-container #logo img
+     {
+      max-width: 100%;
+       object-fit: contain;
+    }
+ }
+
+ /* here is  the responsiveness for the  hero section */
+
+@media screen and (max-width:430px) {
+    .main-container
+    {   
+       display:flex;
+       flex-direction:column;
+       width:100%;
+       height:auto;
+       padding:1em;
+       margin-top:1.5em;
+
+    }
+}
+
+@media screen and (max-width:430px) {
+    .main-container .leftcontainer{
+       
+        width:100%;
+       display:flex;
+      flex-direction:column;
+      justify-content:center;
+      align-items:center;  
+      padding-top: 5px; 
+       /* padding-left: 20px; */
+       font-size: 24px;
+       margin-top:0.7em;
+       margin-bottom:0.5em;
+       margin-left: 0px 0px 0px 0px;
+       font-weight: bolder;
+    }
+}
+
+
+@media screen and (max-width:430px) {
+    .main-container .rightcontainer img
+    {
+        height:auto;
+        display:flex;
+      flex-direction:column;
+      justify-content:center;
+      align-items:center;
+       margin-top:2px;
+      
+    }
+} 
+
+
+@media screen and (max-width:540px) {
+    .main-container .leftcontainer #heading h1
+    {
+        font-size:24px;
+        font-weight:5px;
+        font-family: DM Sans,sans-serif;
+       display:flex;
+      flex-direction:column;
+      justify-content:center;
+      align-items:center;
+      text-align: center;
+       width:100%;
+    
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:430px) {
+    .main-container .leftcontainer #heading h1
+    {
+        font-size:24px;
+        font-weight:5px;
+        font-family: DM Sans,sans-serif;
+       display:flex;
+      flex-direction:column;
+      justify-content:center;
+      align-items:center;
+      text-align: center;
+       width:100%;
+    
+    }
+}
+
+
+@media screen and (max-width:430px) {
+    .main-container .leftcontainer #claim-btn
+    {
+        width:70%;
+        font-size:16px;
+        color: white;
+        font-weight:5px;
+        font-family: DM Sans,sans-serif;
+       display:flex;
+      flex-direction:column;
+      justify-content:center;
+      align-items:center;
+      text-align: center;
+       
+    
+    }
+}
+
+
+@media screen and (max-width:430px) {
+     .center h1
+{
+
+padding:1em;
+font-size:24px;
+}
+}
+
+@media screen and (max-width:430px) {
+    .servicescontainer
+{
+padding:0.5em;
+/* font-size:24px; */
+}
+}
+
+
+@media screen and (max-width:430px) {
+    .main-container .leftcontainer #claim-btn
+    {
+    font-weight: 400px;
+     }}
+
+
+@media screen and (max-width:430px) {
+    .main-container .servicescontainer .h-primary center
+{
+padding:10px;
+
+}
+}
+
+@media screen and (max-width:430px) {
+    .main-container .leftcontainer #sale
+    {
+        font-size:18px;
+        margin-top: 8px;
+        font-weight:700px !important;
+        font-family:DM Sans,sans-serif;
+       width:100%;
+       text-align: center;
+    
+    }
+}
+
+
+
+@media screen and (max-width:430px){
+.webspeed-container  .right_section
+{
+width:100%;
+
+}
+}
+
+
+@media screen and (max-width:430px){
+    .webspeed-container  .left_section
+    {
+    width:100%;
+    
+    }
+    }
+
+
+
+@media screen and (max-width:430px){
+    .webteam-container .secondary_section
+    {
+    width:100%;
+    
+    }
+    }
+
+
+
+
+@media screen and (max-width:430px){
+    .ownercontent #startbutton
+    {
+    position:center;
+    left:100px;
+    
+    }
+    }
+
+
+    @media screen and (max-width:430px){
+        .security-container
+        {
+        width:100%;    
+        height:auto;       
+        padding:8%; 
+    }
+        }
+    
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:430px) {
+    .main-container .rightcontainer
+    {   
+       display:flex;
+       flex-direction:column;
+       /* padding-top:10px; */
+       width:100%;
+    
+
+    }
+}
+
+@media screen and (max-width:430px) {
+    .main-container .leftcontainer .subcontainer
+    {   
+       display:flex;
+       flex-direction:column;
+       align-items: center;
+       width:100%;
+       padding-top: 0;
+       font-size: 0.7em;  
+    }
+}
+
+
+@media screen and (max-width:430px) {
+    .main-container .leftcontainer .price-info
+    {   
+       display:flex;
+       flex-direction:column;
+       align-items: center;
+       justify-content: center;
+       width:100%;
+       padding-top: 0;
+       font-size: 0.7em;  
+    }
+}
+
+@media screen and (max-width:430px) {
+    .rights-info
+    {   
+grid-row:7/8;
+grid-column:3/8;
+
+    }
+}
+
+
+@media screen and (max-width:430px) {
+    .main-container .leftcontainer .gaurantee-container
+    {   
+       display:flex;
+       flex-direction:row;
+       align-items: center;
+       padding-top:10px;
+       font-size: 0.5em;
+    
+    
+    }
+}
+
+
+
+
+@media screen and (max-width:430px) {
+    .websol-container .left_container h1
+    {   
+        font-size: 24px;
+       display:flex;
+       flex-direction:row;
+       align-items:center;
+       /* margin:0px 0px 24px; */
+       padding-top:0px 0px 24px;
+
+
+    }
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:430px) {
+    .webspeed-container .left_section{
+     
+   order:2;
+   margin-left:0px;
+     
+    }
+}
+
+
+
+
+
+@media screen and (max-width:430px) {
+    .webspeed-container .right_section{
+     
+   order:1;
+   margin-left:0px;
+     
+    }
+}
+
+
+@media screen and (max-width:430px) {
+    .webspeed-container .descriptionsec
+    {       
+   order:3;
+   margin-left:0px;
+     
+    }
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:430px) {
+    .webspeed-container .right_section{
+     
+   order:1;
+   margin-left:0px;
+     
+    }
+}
